@@ -7,9 +7,7 @@ Este repositório faz parte do Desafio do Módulo 3 da Trilha de HTML oferecido 
 🧩 Sobre o Projeto
 O desafio consiste em construir uma página inspirada na Wikipedia, utilizando HTML e CSS e aplicando boas práticas de semântica e estruturação.
 
-🌐 Acesse o Projeto Online
-Você pode visualizar o site publicado através do GitHub Pages:
-🔗 https://natanael-cloud.github.io/desafio-wikipedia/
+
 
 🛠️ Tecnologias Utilizadas<br>
 HTML5
